@@ -10,9 +10,9 @@ Call:
 WhatsApp:
 +2348087112167
 Portfolio:
-https://techomaniac.netlify.app/
+https://intellideveloper.webhostapp.com
 
 <!---
-Intellidevelopers/Intellidevelopers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intellideveloper/Intellideveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
