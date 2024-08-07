@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @Intellidevelopers
-- 👀 I’m interested in Full stack web development 
-- 🌱 I’m currently learning Next.js
+- 👋 Hi, I’m @Intellideveloper
+- 👀 I’m a software developer
+- 🌱 I’m opened for freelancing
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ... 
+- 📫 How to reach me ...
+
+- #STACK
+- React Native (Expo & CLI)
+- Flutter & Dart
+- Nodejs
+- PHP
+- LARAVEL
+- Nextjs
+- Reactjs
+- Expressjs
+- Mysql
+- Python
+- Django + Flask
 
 adeagbojosiah1@gmail.com
 Call:
