@@ -1,4 +1,4 @@
-# Hi there, I'm Intellidevelopers 👋
+# Hi there, I'm Dev JTech 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and love to work on exciting projects. Here's a little bit about me:
 
